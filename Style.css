@@ -1,0 +1,33 @@
+body {
+  background-color: Green;
+}
+
+h1{
+  color:white;
+  font-size: 30px;
+    font-family:Arial, sans-serif;
+}
+
+img {
+  width: 100%;
+   
+}
+
+p,li{
+  color:white;
+  font-family: Arial,Helvetica, sans-serif;
+}
+.Header {
+  background-color: black;
+  padding-left: 100px;
+  border: 1px solid black;
+ 
+  
+}
+
+.footer {
+  background: Black;
+  Color:white;
+ border: 1px solid white
+    padding-left: 10px
+}
